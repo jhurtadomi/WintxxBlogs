@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wintxx"
 description              : "Cybersecurity writeups, notes, cheat sheets, and pentesting methodologies by Wintxx."
-url                      : "https://wintxx.github.io"
+url                      : "https://iamwin.xyz"
 baseurl                  : # "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png"
