@@ -440,11 +440,10 @@
     align-items: center;
     justify-content: center;
 
-    /* ── CAMBIA ESTA LÍNEA por tu GIF ── */
-    background-image: url('/assets/images/blue_screen.gif');
+    background-image: url('/assets/images/portait_wintxx.png');
     background-size: cover;
     background-position: center;
-    background-color: #050d1a; /* fallback si no hay gif */
+    background-color: #050d1a;
   }
 
   /* Overlay oscuro para que el contenido destaque sobre el gif */
@@ -576,10 +575,6 @@
 }
 
 .hero-banner {
-  width: 100vw;
+  width: 100%;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
+}

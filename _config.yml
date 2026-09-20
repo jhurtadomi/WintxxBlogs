@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "melancholic" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "melancholic"
 
 # Site Settings
-locale                   : "es-ES"
+locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "My Hacking Notes"
+title                    : "Wintxx Notes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "My Hacking Notes"
-description              : "This is a place to learn different pentesting techniques. Here you can find write-ups, cheat sheets or pentesting methodologies for different services."
-url                      : "https://incommatose.com"
+name                     : "Wintxx"
+description              : "Cybersecurity writeups, notes, cheat sheets, and pentesting methodologies by Wintxx."
+url                      : "https://wintxx.github.io"
 baseurl                  : # "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png"
-logo                     : # "/assets/images/icon/favicon.ico"
+logo                     : "/assets/images/icon/wintxx_icon.ico"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
@@ -90,12 +90,12 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "incommatose"
+  username               : "iamwintxx"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/logo.jpg"
+og_image                 : "/assets/images/portait_wintxx.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -113,35 +113,50 @@ analytics:
 
 # Site Author
 author:
-  name             : "incommatose"
-  avatar           : "/assets/images/author2.jpeg"
-  bio              : "`Cybersecurity Enthusiast 🕵️‍♂️ | eJPTv2 | CTF Player 🚩 | Computer Engineering 💻`"
-  location         : "Chile"
+  name             : "Wintxx"
+  avatar           : "/assets/images/cat_win.jpeg"
+  bio              : "`Offensive Security Practitioner`"
+  location         : "localhost"
   email            :
   links:
+    - label: "Hack The Box"
+      icon: "fas fa-fw fa-cube"
+      url: "https://app.hackthebox.com/users/1942692"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/incommatose"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/iamwintxx"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/wintxx/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.com/users/1107531810344272004"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/incommatosereal"
-    - label: "Discord"
-      icon: "fab da-fw fa-discord"
-      url: "https://discord.com/users/1430986515969868007"
+      url: "https://github.com/wintxx"
 
 
 
 footer:
   links:
+    - label: "Hack The Box"
+      icon: "fas fa-fw fa-cube"
+      url: "https://app.hackthebox.com/users/1942692"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/incommatose"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/iamwintxx"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/wintxx/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.com/users/1107531810344272004"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/incommatosereal"
-    - label: "Discord"
-      icon: "fab da-fw fa-discord"
-      url: "https://discord.com/1430986515969868007"
+      url: "https://github.com/wintxx"
+
+
+
 
 # Reading Files
 include:
@@ -311,3 +326,4 @@ defaults:
       comments: # true
       share: true
       related: true
+

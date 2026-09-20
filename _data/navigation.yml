@@ -1,19 +1,20 @@
 main:
-  - title: "Buscar"  
+  - title: "Search"  
     url: /blog/
-  - title: "Sobre mí"
+  - title: "About Me"
     url: /whoami/
-  - title: "Categorías"
+  - title: "Categories"
     url: /categories/
-  - title: "Etiquetas"
+  - title: "Tags"
     url: /tags/
 
 docs:
-  - title: "Hacking Web"
-    url: "/tags/#hacking-web"
+  - title: "Web Hacking"
+    url: "/tags/#web-hacking"
   - title: "Active Directory"
     url: "/categories/#active-directory"
   - title: "HackTheBox"
     url: "/categories/#hackthebox"
-  - title: "Dockerlabs"
-    url: "/categories/#dockerlabs"
+  - title: "Certifications"
+    url: "/categories/#certifications"
+

@@ -1,5 +1,5 @@
 ---
-title:  "Buscador"
+title: "Search"
 icon: search
 layout: search
 permalink: /blog/
