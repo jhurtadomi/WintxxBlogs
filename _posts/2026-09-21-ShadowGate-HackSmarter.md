@@ -28,7 +28,7 @@ header:
   overlay_filter: '0.6'
 read_time: true
 excerpt: >
-  ShadowGate writeup (HackSmarter Pro Labs): anonymous AD enumeration, AS-REP Roasting, Shadow Credentials with Certipy, and Domain Admin escalation via NTLM Relay + ESC8 (ADCS Web Enrollment) + DCSync.
+  ShadowGate writeup (HackSmarter Pro Labs): anonymous AD enumeration, AS-REP Roasting, Shadow Credentials with Certipy, ESC8 and DCSync.
 ---
 
 
